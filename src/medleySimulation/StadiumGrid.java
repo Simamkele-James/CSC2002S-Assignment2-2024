@@ -1,4 +1,4 @@
-//M. M. Kuttel 2024 mkuttel@gmail.com
+
 //Class representing the grid for the simulation, made up of grid blocks.
 
 package medleySimulation;
