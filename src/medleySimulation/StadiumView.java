@@ -1,5 +1,4 @@
-//M. M. Kuttel 2024 mkuttel@gmail.com
-//
+
 package medleySimulation;
 
 import java.awt.BasicStroke;
