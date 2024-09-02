@@ -1,6 +1,6 @@
 ![Program Screenshot](screenshot.png)
 
-#**Medley simulation**
+# **Medley simulation** \n
 The assignment entails producing a Java simulation of 10 teams of four swimmers taking part 
 in a relay race, ensuring that it follows defined behavioral rules. 
 In this simulation, the stadium is represented as a grid of a specified size, containing an pool, 
