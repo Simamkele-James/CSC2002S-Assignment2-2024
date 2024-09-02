@@ -1,4 +1,4 @@
-//M. M. Kuttel 2024 mkuttel@gmail.com
+
 //Class to represent a swim team - which has four swimmers
 package medleySimulation;
 
